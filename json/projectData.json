@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Project Website Restoran",
+    "description": "Saya dan Teman Sekelompok saya Membuat Website Restoran Untuk Nilai UAS pada salah satu mata kuliah di kampus saya",
+    "status": "active",
+    "image": "images/project2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lorem ipsum dolor sit am Pattern",
+    "description": "lorem sit am subject et accusamus et justo erat et justo erat et justo erat et justo erat",
+    "status": "active",
+    "image": "images/project2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lorem ipsum dolor sit am Pattern",
+    "description": "lorem sit am subject et accusamus et justo erat et justo erat et justo erat et justo erat",
+    "status": "active",
+    "image": "images/project2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lorem ipsum dolor sit am Pattern",
+    "description": "lorem sit am subject et accusamus et justo erat et justo erat et justo erat et justo erat",
+    "status": "active",
+    "image": "images/project2.jpg"
+  }
+]
