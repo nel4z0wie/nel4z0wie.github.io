@@ -15,11 +15,11 @@ const ContactPage = () => {
           <div className="flex-wrap space-x-1">
             <button className="btn">
               <Mail size={25} />
-              <span>loremipsum@gmail.com</span>
+              <span>nel4z0wie@gmail.com</span>
             </button>
             <button className="btn">
               <InstagramIcon size={25} />
-              <span>@lorem42242</span>
+              <span>@nlzyy.syhhh</span>
             </button>
           </div>
         </div>
